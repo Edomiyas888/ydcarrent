@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react';
 import { 
   PhoneCall, 
   MapPin, 
-  Clock, 
   ShieldCheck, 
   Compass, 
   Menu, 
@@ -172,7 +171,7 @@ export default function App() {
                 Built for the <br />Unforgiving Wild.
               </h3>
               <p className="text-slate-400 text-lg mb-8 leading-relaxed">
-                Based in Addis Ababa, YD Car Rental doesn't do ordinary. We specialize strictly in high-endurance, off-road capable vehicles designed to tackle the most demanding expeditions across Ethiopia's diverse and challenging landscapes.
+                Based in Addis Ababa, YD Car Rental doesn&apos;t do ordinary. We specialize strictly in high-endurance, off-road capable vehicles designed to tackle the most demanding expeditions across Ethiopia&apos;s diverse and challenging landscapes.
               </p>
               
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 mt-8">

@@ -5,5 +5,6 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/yd-car-rental/', // <--- THIS MUST MATCH YOUR GITHUB REPO NAME EXACTLY})
+  // Must match the GitHub repository name exactly (Pages URL is /<repo>/ )
+  base: '/ydcarrent/',
 })
